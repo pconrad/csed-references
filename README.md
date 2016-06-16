@@ -13,3 +13,11 @@ Daniel Knox and Sally Fincher. 2013. Where students go for knowledge and what th
 Daniel Knox and Sally Fincher. 2013. Why does place matter?.  In <em>Proceedings of the 18th ACM conference on Innovation and technology in computer science education</em> (ITiCSE '13). ACM, New York, NY, USA,  171-176. DOI=http://dx.doi.org/10.1145/2462476.2465595
 
 Daniel Knox. 2012. Communities of practice and situated learning in computer science.  In <em>Proceedings of the ninth annual international conference on International computing education research</em> (ICER '12). ACM, New York, NY, USA,  161-162. DOI=http://dx.doi.org/10.1145/2361276.2361311
+
+Chickering
+----------
+
+https://en.wikipedia.org/wiki/Chickering%27s_theory_of_identity_development
+
+Jason Carter, UNC... Flailing...  detecting when students are just stuck and flailing (not making progress)
+
